@@ -47,4 +47,9 @@ By analyzing variables such as smoking status, age, gender, BMI, smoking duratio
 - Prioritize Cardiovascular Risk Management
 - Implement Personalized Health Education
 
-  
+---
+
+**Dashboard Preview**
+![Smoking_Health_Risk_Analysis](Smoking_Health_Risk_Analysis.png)
+
+ 
