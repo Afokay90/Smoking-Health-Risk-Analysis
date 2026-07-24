@@ -19,7 +19,7 @@ By analyzing variables such as smoking status, age, gender, BMI, smoking duratio
 - Support healthcare decision-making through interactive data visualization.
 
  ## 📊 Dashboard Features
-- KPI Cards
+  * KPI Cards *
 - Total Individuals Analyzed
 - Average Age Comparison
 - Average BMI Comparison
